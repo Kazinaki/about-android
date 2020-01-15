@@ -7,6 +7,7 @@
 Список проблемных вопросов
 - [Модификаторы доступа](/java/access.md)
 - [Агрегация и композиция](/java/aggregation.md)
+- [Вложенные и внутренние классы](/java/inner_classes.md)
 
 default methods in interface
 Сигнатура метода в Java
