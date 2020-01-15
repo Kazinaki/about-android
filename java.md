@@ -7,6 +7,7 @@
 Список проблемных вопросов
 - [Модификаторы доступа](/java/access.md)
 - [Агрегация и композиция](/java/aggregation.md)
+- [Сигнатура и контракт метода](/java/signature.md)
 - [Вложенные и внутренние классы](/java/inner_classes.md)
 
 default methods in interface
