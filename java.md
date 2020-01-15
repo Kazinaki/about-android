@@ -3,16 +3,15 @@
 - [Сериализация](/java/serialization.md)
 - [Integer и Int](/java/integer.md)
 - [Примитивные типы](/java/primitive.md)
-
-Список проблемных вопросов
 - [Модификаторы доступа](/java/access.md)
 - [Агрегация и композиция](/java/aggregation.md)
 - [Сигнатура и контракт метода](/java/signature.md)
 - [Вложенные и внутренние классы](/java/inner_classes.md)
+- [Как происходит создание объектов](/java/class_creation.md)
+
+Список вопросов
 
 default methods in interface
-Сигнатура метода в Java
-Вложенные классы
 Инициализация статических блоков в Java
 ClassLoader
 Иерархия классов исключений, checked/unchecked exceptions
