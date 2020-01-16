@@ -8,12 +8,12 @@
 - [Сигнатура и контракт метода](/java/signature.md)
 - [Вложенные и внутренние классы](/java/inner_classes.md)
 - [Как происходит создание объектов](/java/class_creation.md)
+- [ClassLoader](/java/classloader.md)
 
 Список вопросов
 
 default methods in interface
 Инициализация статических блоков в Java
-ClassLoader
 Иерархия классов исключений, checked/unchecked exceptions
 В каком случае finally не выполнится?
 Потоки ввода/вывода
