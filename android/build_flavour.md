@@ -83,4 +83,4 @@ varinatFilter { variant ->
 	}
 ```
 
-в данном случает отфильтруются сборки с именами minSdk21FreeDebug и minSdk21PaidDebug.
+в данном случает отфильтруются сборки с именами minApi21FreeDebug и minApi21PaidDebug.
