@@ -11,6 +11,7 @@
 - [ClassLoader](/java/classloader.md)
 - [Выполнение блока finally](/java/finally.md)
 - [Блоки инициализации](/java/initialization_blocks.md)
+- [Переопределение и перегрузка](/java/overriding.md)
 
 Список вопросов
 
