@@ -10,12 +10,11 @@
 - [Как происходит создание объектов](/java/class_creation.md)
 - [ClassLoader](/java/classloader.md)
 - [Выполнение блока finally](/java/finally.md)
+- [Блоки инициализации](/java/initialization_blocks.md)
 
 Список вопросов
 
 default methods in interface
-
-Инициализация статических блоков в Java
 
 Иерархия классов исключений, checked/unchecked exceptions
 
