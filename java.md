@@ -9,11 +9,11 @@
 - [Вложенные и внутренние классы](/java/inner_classes.md)
 - [Как происходит создание объектов](/java/class_creation.md)
 - [ClassLoader](/java/classloader.md)
-- [Выполнение блока finally](/java/finally.md)
 - [Блоки инициализации](/java/initialization_blocks.md)
 - [Переопределение и перегрузка](/java/overriding.md)
 - [Исключения](/java/exceptions.md)
 - [Советы по работе с иключениями](/java/exceptions_advices.md)
+- [Выполнение блока finally](/java/finally.md)
 
 Список вопросов
 
