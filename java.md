@@ -14,14 +14,12 @@
 - [Исключения](/java/exceptions.md)
 - [Советы по работе с иключениями](/java/exceptions_advices.md)
 - [Выполнение блока finally](/java/finally.md)
+- [Потоки ввода-вывода](/java/input_output.md)
+
 
 Список вопросов
 
 default methods in interface
-
-Иерархия классов исключений, checked/unchecked exceptions
-
-Потоки ввода/вывода
 
 Object: notify(), wait()
 
