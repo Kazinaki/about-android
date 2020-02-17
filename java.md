@@ -12,6 +12,7 @@
 - [Выполнение блока finally](/java/finally.md)
 - [Блоки инициализации](/java/initialization_blocks.md)
 - [Переопределение и перегрузка](/java/overriding.md)
+- [Советы по работе с иключениями](/java/exceptions_advices.md)
 
 Список вопросов
 
