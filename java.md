@@ -16,6 +16,7 @@
 - [Выполнение блока finally](/java/finally.md)
 - [Потоки ввода-вывода](/java/input_output.md)
 - [Equals и HashCode](/java/equals.md)
+- [Потоки, синхронизация](/java/synchronized.md)
 
 Список вопросов
 
