@@ -15,15 +15,11 @@
 - [Советы по работе с иключениями](/java/exceptions_advices.md)
 - [Выполнение блока finally](/java/finally.md)
 - [Потоки ввода-вывода](/java/input_output.md)
-
+- [Equals и HashCode](/java/equals.md)
 
 Список вопросов
 
-default methods in interface
-
 Object: notify(), wait()
-
-Контракты equals(), hashCode()
 
 Иммутабельные объекты, преимущества и недостатки
 
