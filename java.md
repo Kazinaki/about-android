@@ -17,12 +17,11 @@
 - [Потоки ввода-вывода](/java/input_output.md)
 - [Equals и HashCode](/java/equals.md)
 - [Потоки, синхронизация](/java/synchronized.md)
+- [Вопросы про коллекции](/java/collections.md)
 
 Список вопросов
 
 Иммутабельные объекты, преимущества и недостатки
-
-Отличия List от Set
 
 Реализация ArrayList и LinkedList
 
@@ -33,8 +32,6 @@
 Компоненты Android приложения (см. App Fundamentals)
 
 Fragment без UI, retained fragment
-
-Жизненный цикл View
 
 Методы ЖЦ Activity, Fragment
 
