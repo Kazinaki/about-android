@@ -18,6 +18,7 @@
 - [Equals и HashCode](/java/equals.md)
 - [Потоки, синхронизация](/java/synchronized.md)
 - [Вопросы про коллекции](/java/collections.md)
+- [Реализация ArrayList](/java/arraylist.md)
 
 Список вопросов
 
