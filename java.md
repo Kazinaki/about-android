@@ -20,14 +20,11 @@
 - [Вопросы про коллекции](/java/collections.md)
 - [Реализация ArrayList](/java/arraylist.md)
 - [Реализация LinkedList](/java/linkedlist.md)
+- [Реализация HashMap](/java/hashmap.md)
 
 Список вопросов
 
 Иммутабельные объекты, преимущества и недостатки
-
-Реализация HashMap
-
-Что произойдет с HashMap, если вставить в него объекты с корректным equals, но hashCode этих объектов возвращает одно и то же значение. Что будет возвращаеть get(key).
 
 Компоненты Android приложения (см. App Fundamentals)
 
