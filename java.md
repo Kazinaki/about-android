@@ -19,12 +19,11 @@
 - [Потоки, синхронизация](/java/synchronized.md)
 - [Вопросы про коллекции](/java/collections.md)
 - [Реализация ArrayList](/java/arraylist.md)
+- [Реализация LinkedList](/java/linkedlist.md)
 
 Список вопросов
 
 Иммутабельные объекты, преимущества и недостатки
-
-Реализация ArrayList и LinkedList
 
 Реализация HashMap
 
