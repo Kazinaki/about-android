@@ -21,6 +21,7 @@
 - [Реализация ArrayList](/java/arraylist.md)
 - [Реализация LinkedList](/java/linkedlist.md)
 - [Реализация HashMap](/java/hashmap.md)
+- [PECS](/java/pecs.md)
 
 Список вопросов
 
@@ -39,8 +40,6 @@ Content Provider
 Background Receiver. В частности: запуск долгой операции из receiver.
 
 DiffUtil.Callback methods, payloads
-
-PECS
 
 Happens-before, volatile.
 
