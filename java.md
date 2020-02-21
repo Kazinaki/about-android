@@ -22,6 +22,7 @@
 - [Реализация LinkedList](/java/linkedlist.md)
 - [Реализация HashMap](/java/hashmap.md)
 - [PECS](/java/pecs.md)
+- [Volatile. ThreadLocal](/java/volatile.md)
 
 Список вопросов
 
