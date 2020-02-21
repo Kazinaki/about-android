@@ -23,6 +23,7 @@
 - [Реализация HashMap](/java/hashmap.md)
 - [PECS](/java/pecs.md)
 - [Volatile. ThreadLocal](/java/volatile.md)
+- [Happens-before](/java/happens_before.md)
 
 Список вопросов
 
@@ -41,7 +42,5 @@ Content Provider
 Background Receiver. В частности: запуск долгой операции из receiver.
 
 DiffUtil.Callback methods, payloads
-
-Happens-before, volatile.
 
 Все вопросы по многопоточности.
