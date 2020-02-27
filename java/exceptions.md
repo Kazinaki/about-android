@@ -23,9 +23,13 @@
 Из `Error` стоит знать наиболее общеизвестные, это:
 
 `OutOfMemoryError` - кончилась память.
+
 `AssertionError` - ошибка в условии оператора assert, начиная с Java 1.4.
+
 `ThreadDeath` - кидается в останавливаемом потоке, при вызове у него метода `stop()`.
+
 `NoSuchMethodError` - обычно отсутствует метод `main`.
+
 `NoClassDefFoundError` - отсутствует код загружаемого класса.
 
 ### Обработка исключений
@@ -73,3 +77,5 @@ for (Thread t : map.keySet()) {
     StackTraceElement[] frames = map.get(t);
 }
 ```
+
+[Советы по работе с исключениями](/java/exceptions_advices.md)
