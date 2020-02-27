@@ -28,11 +28,12 @@ override fun onMeasure(widthMeasureSpec: Int, heightMeasureSpec: Int) {
 - **MeasureSpec.AT_MOST** - размеры заданы по размеру родителя, больше их делать не стоит.
 - **MeasureSpec.UNSPECIFIED** - размеры не определены.
 
-Если требуется изменить размер вью, то надо вызвать `setMeasuredDimension(int width, int height)`.
+**Важно**: если перереопределяем этот метод, то надо вызвать `setMeasuredDimension(int width, int height)`, либо вызвать `super.onMeasure(..)`.
 
 ### onLayout(changed: Boolean, left: Int, top: Int, right: Int, bottom: Int)
 
-Позволяет присваивать размер и позицию дочерних вью.
+Вызывается когда надо назначить размер дочерних вьюх. Параметр `changed` - флаг, что пришли новые размеры и/или позиция вью.
+Если используюется кастомная вью с дочерними вьюхами, то тут надо вызвать `layout()` у дочерних.
 
 ### onDraw(canvas: Canvas?)
 
@@ -45,3 +46,15 @@ override fun onMeasure(widthMeasureSpec: Int, heightMeasureSpec: Int) {
 ### requestLayout()
 
 Вызываем, когда надо изменить размер вью и перерисовать.
+
+## Сохранение состояний
+
+Как и у фрагмента и активити у вью есть методы
+
+```java
+Parcelable onSaveInstanceState ()
+
+void onRestoreInstanceState (Parcelable state)
+```
+
+Где она сохраняет и восстанавливает своё состояние.
