@@ -4,3 +4,4 @@
 - [Службы](/android/services.md)
 - [Build types, flavours, flavour dimension, build variant](/android/build_flavour.md)
 - [View](/android/view.md)
+- [Handler](/android/handler.md)
