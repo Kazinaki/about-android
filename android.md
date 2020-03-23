@@ -5,3 +5,4 @@
 - [Build types, flavours, flavour dimension, build variant](/android/build_flavour.md)
 - [View](/android/view.md)
 - [Handler](/android/handler.md)
+- [Градиентный прогресс бар](/android/progressbar.md)
