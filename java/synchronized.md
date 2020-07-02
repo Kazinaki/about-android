@@ -26,7 +26,7 @@
 
 - **monitorenter** - захват монитора. В один момент времени монитором может владеть только один поток. Если на момент попытки захвата, монитор уже был захвачет, то поток будет ждать пока монитор не освободится. В очереди могут быть несколько потоков.
 - **monitorexit** - освобождение монитора
-- **wait** - перемещение текущего потока в т.е. **wait set** монитора и ожидание того, как произодет `notify`. После того, как поток, владеющий монитором, сделал `wait`, монитором может завладеть другой поток.
+- **wait** - перемещение текущего потока в т.н. **wait set** монитора и ожидание того, как произодет `notify`. После того, как поток, владеющий монитором, сделал `wait`, монитором может завладеть другой поток.
 - **notify(all)** - пробуждается один (или все) поток, который находится в **wait set**-е монитора. Чтобы получить управление поток должет успешно захватить монитор `monitorenter`.
 
 Т.е. создаем какой-нибудь объект, он будет монитором и используем его в блоке `synchronized`.
@@ -39,14 +39,14 @@
 Примеры:
 
 ```java
-public class DemoClass{
-    public synchronized void demoMethod(){}
+public class DemoClass {
+    public synchronized void demoMethod() {}
 }
 ```
 
 ```java
-public class DemoClass{
-    public void demoMethod(){
+public class DemoClass {
+    public void demoMethod() {
         synchronized (this) {
             // ...
         }
@@ -55,10 +55,10 @@ public class DemoClass{
 ```
 
 ```java
-public class DemoClass{
+public class DemoClass {
     private final Object lock = new Object();
-    public void demoMethod(){
-        synchronized (lock)        {
+    public void demoMethod() {
+        synchronized (lock) {
             // ...
         }
     }
@@ -72,14 +72,14 @@ public class DemoClass{
 Примеры:
 
 ```java
-public class DemoClass{
-    public synchronized static void demoMethod(){}
+public class DemoClass {
+    public synchronized static void demoMethod() {}
 }
 ```
 
 ```java
-public class DemoClass{
-    public void demoMethod(){
+public class DemoClass {
+    public void demoMethod() {
         synchronized (DemoClass.class) {
             // ...
         }
@@ -92,7 +92,7 @@ public class DemoClass
 {
     private final static Object lock = new Object();
     public void demoMethod(){
-        synchronized (lock)        {
+        synchronized (lock) {
             // ...
         }
     }
