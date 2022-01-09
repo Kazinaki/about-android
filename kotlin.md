@@ -1,5 +1,10 @@
 Тут заметки про Kotlin
 -----------
+<<<<<<< HEAD
+- [Unit, Nothing](/kotlin/unit_nothing.md)
+=======
+- [Unit, Nothing, Any](/kotlin/unit_nothing.md)
+>>>>>>> unit, nothing
 - [apply, run, let, with, also](/kotlin/apply_run_let.md)
 - [Effective kotlin кратко. Иммутабельность](/kotlin/effective_kotlin_1.md)
 - [Effective kotlin кратко. null](/kotlin/effective_kotlin_2.md)
