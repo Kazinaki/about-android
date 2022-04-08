@@ -6,3 +6,4 @@
 - [View](/android/view.md)
 - [Handler](/android/handler.md)
 - [Градиентный прогресс бар](/android/progressbar.md)
+- [Снакбар из любого места](/android/snackbar.md)
