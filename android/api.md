@@ -6,11 +6,11 @@
 
 | API | Версия | Код версии | Название |
 | :-: | :-: | :-: | :-: |
-| 35  | 15 | Vanilla Ice Cream |
-| 34  | 14 | Upside Down Cake |
-| 33  | 13 | Tiramisu |
-| 32  | 12L  | Snow Cone | 
-| 31  | 12  | Snow Cone |
+| 35  | 15 | VANILLA_ICE_CREAM | Vanilla Ice Cream |
+| 34  | 14 | UPSIDE_DOWN_CAKE | Upside Down Cake |
+| 33  | 13 | TIRAMISU | Tiramisu |
+| 32  | 12L  | S_V2 | Snow Cone | 
+| 31  | 12  | S | Snow Cone |
 | 30  | 11  | R | Red Velvet Cake |
 |	29	|	10	|	Q | Quince Tart	|
 |	28	|	9	|	P | Pie	|
